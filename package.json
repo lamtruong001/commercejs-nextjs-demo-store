@@ -45,5 +45,20 @@
     "eslint-plugin-jsx-a11y": "6.x",
     "eslint-plugin-react": "7.x",
     "eslint-plugin-react-hooks": "2.x"
-  }
+  },
+  "description": "A high-fidelity fully-fledged eCommerce demo store built using the Commerce.js SDK and Next.js with live deployment to Vercel.",
+  "main": "next.config.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamtruong001/commercejs-nextjs-vercel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/lamtruong001/commercejs-nextjs-vercel/issues"
+  },
+  "homepage": "https://github.com/lamtruong001/commercejs-nextjs-vercel#readme"
 }
